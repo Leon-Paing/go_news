@@ -1,6 +1,5 @@
 import Navibar from './Navibar';
 import NewsFetcher from './NewsFetcher'
-import Banner from './Banner';
 
 function App() {
 
