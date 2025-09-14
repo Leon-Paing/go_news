@@ -20,7 +20,7 @@ Go-News lets you select different news sections like **World, Technology, Scienc
 
 ---
 
-## 📸 Screenshots & GIFs
+## OverView
 
 **World News Section**  
 ![World News GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpYm45bDd6NnZteGd0aXNucjBiY3Q3N2N4YWxydm0zbjFoODk4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZthWzyoIzSknltu/giphy.gif)  
