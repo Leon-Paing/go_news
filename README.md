@@ -28,7 +28,7 @@ Go-News lets you select different news sections like **World, Technology, Scienc
 **Switching Sections**  
 ![Section Switch GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNjeTF5c3cycTMyMGl0bGxhaTcwcGdrbzF6ZnN0cHNzNnkxaDIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbmkay6EKlgJdpRxkB/giphy.gif)  
 
-**Responsive Layout Example**  
+**Responsiveness**  
 ![Responsive Layout](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2NTI3cTRpZDZ1cnEyMjg5c3IzN3NxdjFxMmg3aGxtNnhjNWYzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfY4nKis93ZHXMywps/giphy.gif)  
 
 ---
