@@ -23,13 +23,13 @@ Go-News lets you select different news sections like **World, Technology, Scienc
 ## 📸 Screenshots & GIFs
 
 **World News Section**  
-![World News GIF](https://media.giphy.com/media/l0HlQ7LRalY4nMXze/giphy.gif)  
+![World News GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpYm45bDd6NnZteGd0aXNucjBiY3Q3N2N4YWxydm0zbjFoODk4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZthWzyoIzSknltu/giphy.gif)  
 
 **Switching Sections**  
-![Section Switch GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
+![Section Switch GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNjeTF5c3cycTMyMGl0bGxhaTcwcGdrbzF6ZnN0cHNzNnkxaDIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbmkay6EKlgJdpRxkB/giphy.gif)  
 
 **Responsive Layout Example**  
-![Responsive Layout](https://media.giphy.com/media/3o7TKFq6yzD0L0YQyY/giphy.gif)  
+![Responsive Layout](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2NTI3cTRpZDZ1cnEyMjg5c3IzN3NxdjFxMmg3aGxtNnhjNWYzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfY4nKis93ZHXMywps/giphy.gif)  
 
 ---
 
