@@ -1,50 +1,42 @@
-# React + TypeScript + Vite
+# 📰 Go-News
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Header GIF](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)
 
-Currently, two official plugins are available:
+A **real-time news fetching React app** that brings the latest news from around the world directly to your browser. 🌎✨  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Go-News lets you select different news sections like **World, Technology, Science, Business, Sports, Health, and Entertainment** — all in a sleek and modern UI.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🌟 Features
 
-- Configure the top-level `parserOptions` property like this:
+- 🗂 **Multiple Sections**: Switch between World, Technology, Science, Business, Sports, Health, and Entertainment news.  
+- ⚡ **Real-time Fetching**: Fetches latest news instantly when section changes.  
+- 🖼 **Visual News Cards**: Displays article image, source icon, and title elegantly.  
+- 🔗 **Direct Navigation**: Click "Read more" to open the full article in a new tab.  
+- 🧩 **Responsive Design**: Fully responsive for desktop, tablet, and mobile screens.  
+- 🎨 **Modern UI**: Uses Tailwind CSS for beautiful styling and layout.  
+- ⏱ **Loading & Error Handling**: Shows loader while fetching and error messages if fetching fails.  
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+---
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## 📸 Screenshots & GIFs
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+**World News Section**  
+![World News GIF](https://media.giphy.com/media/l0HlQ7LRalY4nMXze/giphy.gif)  
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+**Switching Sections**  
+![Section Switch GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
+
+**Responsive Layout Example**  
+![Responsive Layout](https://media.giphy.com/media/3o7TKFq6yzD0L0YQyY/giphy.gif)  
+
+---
+
+## 🛠 Installation & Setup
+
+1. **Clone the repository**  
+
+```bash
+git clone https://github.com/Leon-Paing/go_news.git
+cd go_news
